@@ -1,0 +1,8 @@
+{
+  "name": "StockForge Studio",
+  "description": "Professional AI Vector & Animation Production Platform for commercial stock creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
